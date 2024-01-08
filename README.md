@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osedelius
 - 👀 I’m interested in Business Intelligence and Data Analytics.
 - 🌱 I’m currently learning SQL, Python & Power BI
-- 💞️
+- 💞️ Avid sports fan
 - 📫 How to reach me ...
 
 <!---
